@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Marker
+  - Enemy
+  - Barrier
+  - Obstacle
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - QuestionBox
+  - Obstacles
+  - Spawned
+  - 
+  - bg01
+  - bg02
+  - bg03
+  - bg04
+  - bg05
+  - bg06
+  - bg07
+  - bg08
+  - bg09
+  - bg10
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Markers
+    uniqueID: 1303887667
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 471163975
+    locked: 0
+  - name: WorldBackground
+    uniqueID: 2875763359
+    locked: 0
+  - name: Player
+    uniqueID: 2439465559
+    locked: 0
+  - name: Items
+    uniqueID: 1934518425
+    locked: 0
+  - name: Enemy
+    uniqueID: 2956995129
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1947247639
+    locked: 0
+  - name: Particle
+    uniqueID: 3358047865
+    locked: 0
